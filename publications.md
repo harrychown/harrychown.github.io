@@ -5,8 +5,8 @@ title: Publications
 
 # Publications
 
-[Google Scholar]((https://scholar.google.com/citations?user=jELkT-EAAAAJ&hl=en&oi=ao) 
-[ORCID](https://orcid.org/0000-0002-5331-4711)
+<p>[Google Scholar](https://scholar.google.com/citations?user=jELkT-EAAAAJ&hl=en&oi=ao)</p> 
+<p>[ORCID](https://orcid.org/0000-0002-5331-4711)</p>
 
 
 
