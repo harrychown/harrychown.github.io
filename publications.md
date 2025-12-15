@@ -5,6 +5,11 @@ title: Publications
 
 # Publications
 
+[Google Scholar]((https://scholar.google.com/citations?user=jELkT-EAAAAJ&hl=en&oi=ao) 
+[ORCID](https://orcid.org/0000-0002-5331-4711)
+
+
+
 - **Fisher, M., Rhodes, J., Chown, H., Leitao, R., Hemmings, S., Stanford, F., Dyer, P., Abdolrasouli, A., van Rhijn, N., Chaudhry, Z., others** (2025). *Recent European origin of azole resistance in the critical priority fungal pathogen Aspergillus fumigatus*.
 - **Bowyer, P., Weaver, D., Qi, T., Chown, H., Fraczek, M., Lebedinec, R., Dineen, L., Valero, C., van Rhijn, N., Furukawa, T., others** (2025). *Genome-wide discovery and phenotyping of non-coding transcripts in A. fumigatus reveals lncRNAs with a role in antifungal drug sensitivity*.
 - **van Rhijn, N., Zhao, C., Al-Furaji, N., Storer, I. S., Valero, C., Gago, S., Chown, H., Baldin, C., Grant, R., Bin Shuraym, H., others** (2024). *Functional analysis of the Aspergillus fumigatus kinome identifies a druggable DYRK kinase that regulates septal plugging*. Nature Communications.
