@@ -74,7 +74,7 @@ a:hover{ text-decoration:underline; }
 
 /* Typography similar to the screenshot */
 h1, h2{
-  font-family: Georgia, "Times New Roman", Times, serif;
+  font-family: inherit;
   font-weight: 750;
   letter-spacing: -0.02em;
   margin: 0 0 12px;
