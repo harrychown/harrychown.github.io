@@ -2,11 +2,3 @@ title: Dr. Harry Chown
 description: Bioinformatician
 markdown: kramdown
 permalink: pretty
-plugins:
-  - jekyll-scholar
-
-scholar:
-  style: apa
-  locale: en
-  bibliography: publications
-
