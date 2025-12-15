@@ -4,7 +4,6 @@ title: Research
 ---
 
 # Research
-
 ## Pangenomes
 
 Since around 2020, fungal pangenomes have expanded substantially in scale, both in the number of genomes per species and in the taxonomic breadth of species studied. Pangenomes enable an unbiased investigation of genomic heterogeneity by analysing the complete set of DNA sequences within a population, rather than relying on comparisons to a single reference genome. This approach allows the genome to be partitioned into core regions, which are conserved across all individuals of a species and accessory regions, which vary between individuals. Numerous studies have linked accessory genomic regions to traits such as virulence and antifungal antimicrobial resistance (fAMR) in fungal pathogens, while the conserved core genome represents a promising source of novel antifungal drug targets.
