@@ -14,3 +14,5 @@ Watch this space! To be added:
 - Annotating transposable elements
   - Using EarlGreyTE
   - Identifying RIP and TE-defense genes
+- Metagenomic/metabarcoding community analysis
+- Metagenome assembly
