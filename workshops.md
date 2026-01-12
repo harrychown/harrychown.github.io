@@ -10,6 +10,11 @@ To access workshops click on the hyperlinked header.
 ## [Introduction to the HPC (ICL)](https://harrychown.github.io/hpc-icl/)
 A brief tour of the HPC for ICL members. In this tutorial you will learn how to get set up on the HPC, how to navigate it and how to develop your first scripts. Along the way you'll pick up basic Bash commands. 
 
+## [Genome assembly and annotation](https://harrychown.github.io/assembly-annotation/)
+**In progress**. Assembly and annotation of fungal genomes, current focus is on ONT assembly with short-read sequencing data.
+
+
+
 Watch this space! To be added:
 
 - Assembling long-read genomes
